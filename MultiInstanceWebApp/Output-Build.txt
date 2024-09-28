@@ -1,0 +1,5 @@
+﻿Build started at 2:37 PM...
+1>------ Build started: Project: MultiInstanceWebApp, Configuration: Debug Any CPU ------
+1>MultiInstanceWebApp -> D:\TestProject\MultiInstanceWebApp\MultiInstanceWebApp\bin\Debug\net8.0\MultiInstanceWebApp.dll
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+========== Build completed at 2:37 PM and took 04.293 seconds ==========
